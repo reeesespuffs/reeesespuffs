@@ -1,3 +1,3 @@
-Hi im a programmer who works with typescript and rust
+Hi i'm marcy, i'm a fullstack devloper
 
 I work on: [revolt.chat](https://revolt.chat)
